@@ -5,6 +5,5 @@
 - git branch "nombre_rama"
 
 # Comando para unir las ramas
-- git merge "nombre_rama"
-- git 
-
+- git checkout "nombre_rama"
+- git switch "nombre_rama"
